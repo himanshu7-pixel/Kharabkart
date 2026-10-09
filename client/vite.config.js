@@ -6,6 +6,10 @@ export default defineConfig({
   server: {
     host: true,
     allowedHosts: true,
-    proxy: { '/api': 'http://localhost:5000' },
+    proxy: { '/api':{
+      target: 'https://ongitrender.com',
+      changeOrigin: true,
+      secure:false}
+    } },
   },
-})
+)
