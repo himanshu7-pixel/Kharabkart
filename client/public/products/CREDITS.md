@@ -1,0 +1,41 @@
+# Product image credits
+
+Photos from Wikimedia Commons, resized. Replace any `<slug>.jpg` in this folder with your own image to change it.
+
+- **airbus.jpg**: [Emirates Airbus A380-861 A6-EER MUC 2015 01.jpg](https://commons.wikimedia.org/wiki/File:Emirates_Airbus_A380-861_A6-EER_MUC_2015_01.jpg) by Julian Herzog (Website), CC BY 4.0
+- **belan.jpg**: [Wooden rolling pin with a handle 04.jpg](https://commons.wikimedia.org/wiki/File:Wooden_rolling_pin_with_a_handle_04.jpg) by Chenspec, CC BY-SA 4.0
+- **big-spoons.jpg**: [Whisks and Wooden Spoons commonly used in Botswana.jpg](https://commons.wikimedia.org/wiki/File:Whisks_and_Wooden_Spoons_commonly_used_in_Botswana.jpg) by MmaBaggio, CC BY-SA 4.0
+- **birthday-belt.jpg**: [Germany Belt-and-Buckle-01.jpg](https://commons.wikimedia.org/wiki/File:Germany_Belt-and-Buckle-01.jpg) by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- **boeing-777.jpg**: [Aeroflot SkyTeam livery Boeing 777-300ER takeoff at SVO.jpg](https://commons.wikimedia.org/wiki/File:Aeroflot_SkyTeam_livery_Boeing_777-300ER_takeoff_at_SVO.jpg) by Parasini, CC BY-SA 4.0
+- **cake-for-face.jpg**: [Badumching - pie in the face.png](https://commons.wikimedia.org/wiki/File:Badumching_-_pie_in_the_face.png) by Seth Lemmons from Boise, Unites States, CC BY 2.0
+- **chappal.jpg**: [Kolhapuri Chappals in roadside shop in Kolhapur4.jpg](https://commons.wikimedia.org/wiki/File:Kolhapuri_Chappals_in_roadside_shop_in_Kolhapur4.jpg) by सुबोध कुलकर्णी, CC BY-SA 4.0
+- **chartered-plane.jpg**: [Netjets Bombardier Challenger 350 N757QS BWI MD1.jpg](https://commons.wikimedia.org/wiki/File:Netjets_Bombardier_Challenger_350_N757QS_BWI_MD1.jpg) by Acroterion, CC BY-SA 4.0
+- **cheese-sharam.jpg**: provided by the site owner
+- **cow-dung-cake.jpg**: [Cow dung cakes and heap set out for drying.JPG](https://commons.wikimedia.org/wiki/File:Cow_dung_cakes_and_heap_set_out_for_drying.JPG) by Gopal Aggarwal from INDIA, CC BY 2.0
+- **fridge.jpg**: [Freezer door open on refrigerator in home kitchen in New Orleans, March 2025.jpg](https://commons.wikimedia.org/wiki/File:Freezer_door_open_on_refrigerator_in_home_kitchen_in_New_Orleans,_March_2025.jpg) by Infrogmation of New Orleans, CC BY-SA 2.0
+- **helicopter.jpg**: [Bell 407 HB-XQY.jpg](https://commons.wikimedia.org/wiki/File:Bell_407_HB-XQY.jpg) by Chme82, CC BY-SA 4.0
+- **kalchhul.jpg**: [Set of serving ladles on stainless kitchen wall.jpg](https://commons.wikimedia.org/wiki/File:Set_of_serving_ladles_on_stainless_kitchen_wall.jpg) by Marc-Lautenbacher, CC BY-SA 4.0
+- **mortuary-room.jpg**: [Mortuary Refrigerator of the San Miguel Cemetery.jpg](https://commons.wikimedia.org/wiki/File:Mortuary_Refrigerator_of_the_San_Miguel_Cemetery.jpg) by Daniel Capilla, CC BY-SA 4.0
+- **private-jet.jpg**: [Gulfstream G650 departs Bristol 23rdAug2014 arp.jpg](https://commons.wikimedia.org/wiki/File:Gulfstream_G650_departs_Bristol_23rdAug2014_arp.jpg) by Myself (Adrian Pingstone)., Public domain
+- **shoes.jpg**: [Professional Sneakers - Sneakers for hostesses, pilots and other professionals. Comfortable sneakers produced in leather inside and outside.jpg](https://commons.wikimedia.org/wiki/File:Professional_Sneakers_-_Sneakers_for_hostesses,_pilots_and_other_professionals._Comfortable_sneakers_produced_in_leather_inside_and_outside.jpg) by Ricardovfo, CC BY-SA 4.0
+- **birthday-eggs.jpg**: [Egg cartons with chicken eggs 03.jpg](https://commons.wikimedia.org/wiki/File:Egg_cartons_with_chicken_eggs_03.jpg) by Krzysztof Golik, CC BY-SA 4.0
+- **brick-biscuit.jpg**: [Red Bricks Stack on Sidewalk of Lane 212, Section 5, Minsheng East Road, Taipei 20160829.jpg](https://commons.wikimedia.org/wiki/File:Red_Bricks_Stack_on_Sidewalk_of_Lane_212,_Section_5,_Minsheng_East_Road,_Taipei_20160829.jpg) by 玄史生, CC0
+- **bullock-cart.jpg**: [Girl on bullock cart, Umaria district, MP, India.jpg](https://commons.wikimedia.org/wiki/File:Girl_on_bullock_cart,_Umaria_district,_MP,_India.jpg) by Yann (talk), CC BY-SA 4.0
+- **crispy-tawa.jpg**: [Tawa(Griddle).jpg](https://commons.wikimedia.org/wiki/File:Tawa(Griddle).jpg) by Rajani Gairshail, CC0
+- **desert-cooler.jpg**: [Air cooler.jpg](https://commons.wikimedia.org/wiki/File:Air_cooler.jpg) by User:Utkarshsingh.1992, CC BY-SA 1.0
+- **gift-box-air.jpg**: [Box.agr.jpg](https://commons.wikimedia.org/wiki/File:Box.agr.jpg) by ArnoldReinhold, CC BY-SA 3.0
+- **hand-fan.jpg**: [Folding Fan LACMA M.84.254.jpg](https://commons.wikimedia.org/wiki/File:Folding_Fan_LACMA_M.84.254.jpg) by Unknown, Public domain
+- **hot-air-balloon.jpg**: [Leon hot air balloon festival 2010.jpg](https://commons.wikimedia.org/wiki/File:Leon_hot_air_balloon_festival_2010.jpg) by Tomas Castelazo, CC BY-SA 3.0
+- **igloo.jpg**: [Aurora australis dancing over an LED illuminated igloo.jpg](https://commons.wikimedia.org/wiki/File:Aurora_australis_dancing_over_an_LED_illuminated_igloo.jpg) by Ross Burgener, Public domain
+- **popped-balloons.jpg**: [Half-deflated toy balloon 2017 Aug 02 (1390).jpg](https://commons.wikimedia.org/wiki/File:Half-deflated_toy_balloon_2017_Aug_02_(1390).jpg) by Alexey V. Kurochkin, CC BY-SA 4.0
+- **pressure-cooker.jpg**: [Super Cocotte decor SEB-MGR Lyon-IMG 9918.jpg](https://commons.wikimedia.org/wiki/File:Super_Cocotte_decor_SEB-MGR_Lyon-IMG_9918.jpg) by Rama, CC BY-SA 2.0 fr
+- **rocket.jpg**: [First NASA ISINGLASS rocket launch.jpg](https://commons.wikimedia.org/wiki/File:First_NASA_ISINGLASS_rocket_launch.jpg) by NASA, Public domain
+- **single-ice-cube.jpg**: [Ice Cube Close-up.jpg](https://commons.wikimedia.org/wiki/File:Ice_Cube_Close-up.jpg) by Rashid Idrees Rana, CC BY 4.0
+- **soap-paneer.jpg**: [Aleppo soap 01.jpg](https://commons.wikimedia.org/wiki/File:Aleppo_soap_01.jpg) by Bernard Gagnon, CC BY-SA 3.0
+- **submarine.jpg**: [US Navy 060215-N-9500T-454 The Los Angeles-class fast attack submarine USS Asheville (SSN 758) underway conducting high-speed surface drills off the coast of Southern California.jpg](https://commons.wikimedia.org/wiki/File:US_Navy_060215-N-9500T-454_The_Los_Angeles-class_fast_attack_submarine_USS_Asheville_(SSN_758)_underway_conducting_high-speed_surface_drills_off_the_coast_of_Southern_California.jpg) by U.S. Navy photo by photographer's Mate 2nd Class Scott Taylor, Public domain
+- **trick-candles.jpg**: [Birthday candles.jpg](https://commons.wikimedia.org/wiki/File:Birthday_candles.jpg) by Ed g2s, CC BY-SA 3.0
+- **dimag.jpg**: [The Human Brain Model 02.jpg](https://commons.wikimedia.org/wiki/File:The_Human_Brain_Model_02.jpg) by Edeh Sophia, CC0
+- **akal.jpg**: [Gluehlampe 01 KMJ.jpg](https://commons.wikimedia.org/wiki/File:Gluehlampe_01_KMJ.jpg) by KMJ, CC BY-SA 3.0
+- **sabr.jpg**: [Wooden hourglass 3.jpg](https://commons.wikimedia.org/wiki/File:Wooden_hourglass_3.jpg) by User:S Sepp, CC BY-SA 3.0
+- **izzat.jpg**: [Swedish Crown (Polish Crown Jewels).jpg](https://commons.wikimedia.org/wiki/File:Swedish_Crown_(Polish_Crown_Jewels).jpg) by Anonymous (Poland)Unknown author, Public domain
+- **neend.jpg**: [Cat sleeping on Pillow.jpg](https://commons.wikimedia.org/wiki/File:Cat_sleeping_on_Pillow.jpg) by Rainebgone, CC BY-SA 4.0
