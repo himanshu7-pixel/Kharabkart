@@ -4,7 +4,8 @@
       "root": "client"
     },
     "server": {
-      "root": "server"
+      "root": "server",
+      "entrypoint": "src/index.js"
     }
   },
   "rewrites": [
